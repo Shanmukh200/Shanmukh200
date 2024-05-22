@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects related to data analysis and power BI analysis and visualizaion.
 - 📫 You can reach me via email at shanmukthatikonda@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play the cricket in my free time!
+- ⚡ Fun fact: I love to play cricket in my free time!
 
 <!---
 Shanmukh200/Shanmukh200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
